@@ -8,8 +8,15 @@ namespace RADNUG.metro.DataModel
         private string firstName = string.Empty;
         public string FirstName
         {
-            get { return this.firstName; }
+            get { return firstName; }
             set { this.SetProperty(ref firstName, value); }
+        }
+
+        private string lastName = string.Empty;
+        public string LastName
+        {
+            get { return lastName; }
+            set { this.SetProperty(ref lastName, value); }
         }
         #endregion  // Properties
 
