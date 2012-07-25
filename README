@@ -1,9 +1,8 @@
 [RADNUG](http://radnug.org) - where it all begins
 =======================================================================
-This code serves as a learning platform for metro style applications in Windows 8. The main focus of this code will be
-about learning the new features of Windows 8 and how to develop a metro style application from the ground up.
+This code serves as a learning platform for metro style applications in Windows 8. The main focus of this code will be about learning the new features of Windows 8 and how to develop a metro style application from the ground up.
 
 visit http://radnug.org/blog to follow along and participate!
 
 ## Getting Started
-To compile the project, you'll need Visual Studio 2012.
+To compile the project, you'll need Visual Studio 2012. Express version should work fine.
